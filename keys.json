@@ -1,0 +1,42 @@
+{
+  "ATTA-3UK0JMFO": {
+    "days": 2,
+    "used": false
+  },
+  "ATTA-5QURALU4": {
+    "days": 2,
+    "used": false
+  },
+  "ATTA-IWBKDXLE": {
+    "days": null,
+    "used": false
+  },
+  "ATTA-HWVLEE93": {
+    "days": 2,
+    "used": true
+  },
+  "ATTA-0Z3SIIOI": {
+    "days": 20,
+    "used": false
+  },
+  "ATTA-SMKBQT5D": {
+    "days": 20,
+    "used": true
+  },
+  "ATTA-YZGXWLU0": {
+    "days": 102,
+    "used": false
+  },
+  "ATTA-SFCGBMR5": {
+    "days": 1,
+    "used": false
+  },
+  "ATTA-05KE7BXK": {
+    "days": 15,
+    "used": false
+  },
+  "ATTA-45ITJ7ZR": {
+    "days": 1,
+    "used": true
+  }
+}
